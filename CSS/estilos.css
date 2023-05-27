@@ -1,0 +1,30 @@
+.b1{
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 18px;
+ color: aliceblue;
+ text-align: right;
+ background-color:aqua;
+margin-right: 10%;
+
+}
+
+.b2{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 18px;
+color: aliceblue;
+text-align:center;
+background-color: aqua;
+padding-right: 10%;
+   
+   }
+
+  .b3{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    color: aliceblue;
+    text-align:center;
+    background-color: aqua;
+    padding-right: 10%;
+
+  } 
